@@ -6,7 +6,7 @@ import Home from './Components/Home';
 import Navbar from './Components/Navbar';
 import Moviedetails from './Components/Moviedetails';
 import Genredetails from './Components/Genredetails';
-
+// app
 function App() {
   return (
     <div className="App">
